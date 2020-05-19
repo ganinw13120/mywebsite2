@@ -1,39 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
+    <link href="css/main.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
-    <style>
-        .container {
-            position: relative;
-            text-align: center;
-            color: white;
-        }
-        .text-home{
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -70%);
-        }
-        .name{
-            font-weight:500;
-            font-size:5vw;
-        }
-        .sub-name{
-            font-weight:500;
-            font-size:3vw;
-        }
-        body{
-         background: #232323;
-         font-family: 'Kanit', sans-serif;
-        }
-        canvas {
-         width:100%;
-         background: #232323;
-        }          
-    
-    </style>
     </head>
     <body>
+      <div class='app'>
         <div class='container'>
             <canvas id="canvas"></canvas>
             <div class='text-home'>
@@ -41,6 +13,63 @@
                 <div class='sub-name'>เเฟ้มผลงานออนไลน์</div>
             </div>
         </div>    
+        
+        <div class='infomation' id='infomation'>
+        <div>
+            <img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/65210703_2340114006075600_7112925584065298432_n.jpg?_nc_cat=100&_nc_sid=b96e70&_nc_eui2=AeEB8Z-hPCk-emDnl3gDRQqYO1aNSuKe9_87Vo1K4p73_8J477D7_ZdKY3pq2osO-MXwaeNFn4A8RsWYYzCYtfMZ&_nc_ohc=d7bfob7cZ1IAX-7fUWm&_nc_ht=scontent.fbkk25-1.fna&oh=fd01d5c60f80599ce06f4a3297922d42&oe=5EE7BD58' class='img-info'></img>
+        </div>
+            <div class='infomation-detail'>
+            <div class='bold'>ข้อมูลส่วนตัว</div>
+            <div class='detail bold'>นายแกน มงคลากร (แกน)</div>
+            <div class='detail-s'>นักศึกษาชั้นปีที่ 1 คณะวิศวกรรมศาสตร์ สาขาวิชาวิศวกรรมคอมพิวเตอร์</div>
+            <div class='detail-s'>มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี</div>
+            <div class='detail-s bold'>ความสามารถ</div>
+            <div class='detail-s'>ด้านเว็ปไซต์ : <a>Javascript</a> <a>PHP</a> <a>Nodejs</a> <a>React</a> <a>Laravel</a></div>
+            <div class='detail-s'>ด้านการพัฒนาเกม : <a>Unity</a> ด้วยภาษา C#</div>
+            <div class='detail-s'>อื่น ๆ : <a>SQL</a> และ <a>Line Platform</a> เช่น ไลน์เเชทบอท</div>
+            <div class='detail-s'></div>
+            <div class='bold'>ช่องทางการติดต่อ</div>
+            <div class='detail-s'>โทร 086-4062057</div>
+            <div class='detail-s'>อีเมล gan131201@gmail.com</div>
+            <div class='detail-s'></div>
+            <div class='detail-s'></div>
+            </div>
+        </div>
+        <div class='work-title'>
+        ผลงาน  
+      </div>
+        <div class='card'>
+          <div class="card-container">
+            <div class='card-image blue'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/90345629_3095025170542207_8904989856413777920_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_eui2=AeEbhv6L8CM9zeoDpNYKkBcZY5tQEkkEKm1jm1ASSQQqbUah7MSggY0xsa97JfUpfhdXMyyf4xuauY_sYPQRXu0d&_nc_ohc=1ib4RIP7T9UAX9VTAkL&_nc_ht=scontent.fbkk25-1.fna&oh=e1bb4829a2b34b3970ededdda51a74da&oe=5EE9B7BC' class='card-img'></div>
+            <div class='card-title'>ไลน์บอท Patsunee</div>
+            <div class='card-detail'>แชทบอทที่มีผู้ใช้งานมากกว่า 20,000 คน</div>
+            <div class='card-detail'>แชทบอทเกี่ยวกับการติดตามพัสดุ</div>
+            <div class='card-footer'><a>Line Platform</a></div>
+          </div>
+          <div class="card-container ">
+            <div class='card-image yellow'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/99156874_2669447826665221_1066631943728136192_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_eui2=AeEyjxB-rc49G0LzyxELFrkczIo9dj6HNhTMij12Poc2FBWdl-1m-RmeXXHS6lh05eEeAeSgUBktxa57pHjFN2O1&_nc_ohc=a9N89KaezRoAX_jyffN&_nc_ht=scontent.fbkk25-1.fna&oh=a6f63754a1cb70ec5cf0c3f2d754be2a&oe=5EEB0C96' class='card-img'></div>
+            <div class='card-title'>ระบบเลือกตั้งออนไลน์</div>
+            <div class='card-detail'>ระบบเลือกตั้งออนไลน์ภายใน มจธ.</div>
+            <div class='card-detail'>มีผู้เข้าร่วมการเลือกตั้งมากกว่า 2,300 คน</div>
+            <div class='card-footer'><a>Laravel</a> <a>Nodejs</a> <a>ReactJs</a></div>
+          </div>
+          <div class="card-container">
+            <div class='card-image yellow'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/96525101_714847015986838_8349712840591933440_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeEIf9A8lmhB0CK88Q5xY3QEQYG7ds_nvwBBgbt2z-e_AOXrW4RfuYh0q5g8W53abnDOn6cY0bsPq7cueCS4WYHM&_nc_ohc=L4p82BXZpOkAX92-eih&_nc_ht=scontent.fbkk25-1.fna&oh=167681aae624ec7c4ae412bb0ec649ed&oe=5EE804D3' class='card-img'></div>
+            <div class='card-title'>ระบบประเมิณความเสี่ยงภัย</div>
+            <div class='card-detail'>ใช้ภายในองค์กร Energy Environment </div>
+            <div class='card-detail'>Safety and Health (EESH) ภายในมจธ.</div>
+            <div class='card-footer'><a>Laravel</a></div>
+          </div>
+          <div class="card-container">
+            <div class='card-image blue'><img src='http://logcov.org/images/new-logo.png' class='card-img-cov'></div>
+            <div class='card-title'>ระบบบริหารจัดการคลังเวชภัณฑ์
+                Matching System </div>
+            <div class='card-detail'>ได้รับความร่วมมือจากกระทรวงสาธารณสุข </div>
+            <div class='card-detail'>สำนักงานวิจัยเเห่งชาติ เเละมหาวิทยาลัยมหิดล</div>
+            <div class='card-footer'><a>Laravel</a></div>
+          </div>
+        </div>
+        </div>
     </body>
     <script>
     var canvas = document.getElementById("canvas"),
