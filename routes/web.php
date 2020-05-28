@@ -16,3 +16,19 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/works/patsunee',function(){
+    return view('works.patsunee');
+});
+
+Route::get('/works/election',function(){
+    return view('works.election');
+});
+
+Route::get('/works/eesh',function(){
+    return view('works.eesh');
+});
+
+Route::get('/works/matching',function(){
+    return view('works.matching');
+});

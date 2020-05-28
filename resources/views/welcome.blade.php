@@ -43,38 +43,38 @@
         ผลงาน  
       </div>
         <div class='card'>
-          <div class="card-container">
+          <div class="card-container" onclick="window.location='works/patsunee'">
             <div class='card-image blue'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.0-9/90345629_3095025170542207_8904989856413777920_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_eui2=AeEbhv6L8CM9zeoDpNYKkBcZY5tQEkkEKm1jm1ASSQQqbUah7MSggY0xsa97JfUpfhdXMyyf4xuauY_sYPQRXu0d&_nc_ohc=1ib4RIP7T9UAX9VTAkL&_nc_ht=scontent.fbkk25-1.fna&oh=e1bb4829a2b34b3970ededdda51a74da&oe=5EE9B7BC' class='card-img'></div>
             <div class='card-title'>ไลน์บอท Patsunee</div>
             <div class='card-detail'>แชทบอทที่มีผู้ใช้งานมากกว่า 20,000 คน
             แชท บอทเกี่ยวกับการติดตามพัสดุ</div>
-            <div class='card-footer'><a>Line Platform</a></div>
-            <!-- <div class='card-button'><a>รายละเอียด</a></div> -->
+            <div class='card-footer'><a>Line Platform</a> <a>NodeJs</a></div>
+            <div class='card-button'><a>ดูรายละเอียด</a></div>
           </div>
-          <div class="card-container ">
+          <div class="card-container "  onclick="window.location='works/election'">
             <div class='card-image yellow'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/99156874_2669447826665221_1066631943728136192_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_eui2=AeEyjxB-rc49G0LzyxELFrkczIo9dj6HNhTMij12Poc2FBWdl-1m-RmeXXHS6lh05eEeAeSgUBktxa57pHjFN2O1&_nc_ohc=a9N89KaezRoAX_jyffN&_nc_ht=scontent.fbkk25-1.fna&oh=a6f63754a1cb70ec5cf0c3f2d754be2a&oe=5EEB0C96' class='card-img'></div>
             <div class='card-title'>ระบบเลือกตั้งออนไลน์</div>
             <div class='card-detail'>ระบบเลือกตั้งออนไลน์ภายใน มจธ.
             มีผู้เข้าร่วมการเลือกตั้งมากกว่า 2,300 คน</div>
             <div class='card-footer'><a>Laravel</a> <a>Nodejs</a> <a>ReactJs</a></div>
-            <!-- <div onclick="" class='card-button'><a>รายละเอียด</a></div> -->
+            <div class='card-button'><a>ดูรายละเอียด</a></div>
           </div>
-          <div class="card-container">
+          <div class="card-container" onclick="window.location='works/eesh'">
             <div class='card-image yellow'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/96525101_714847015986838_8349712840591933440_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeEIf9A8lmhB0CK88Q5xY3QEQYG7ds_nvwBBgbt2z-e_AOXrW4RfuYh0q5g8W53abnDOn6cY0bsPq7cueCS4WYHM&_nc_ohc=L4p82BXZpOkAX92-eih&_nc_ht=scontent.fbkk25-1.fna&oh=167681aae624ec7c4ae412bb0ec649ed&oe=5EE804D3' class='card-img'></div>
             <div class='card-title'>ระบบประเมิณความเสี่ยงภัย</div>
             <div class='card-detail'>ใช้ภายในองค์กร Energy Environment 
             Safety and Health (EESH) ภายในมจธ.</div>
             <div class='card-footer'><a>Laravel</a></div>
-            <!-- <div class='card-button'><a>รายละเอียด</a></div> -->
+            <div class='card-button'><a>ดูรายละเอียด</a></div>
           </div>
-          <div class="card-container">
+          <div class="card-container" onclick="window.location='works/matching'">
             <div class='card-image blue'><img src='http://logcov.org/images/new-logo.png' class='card-img-cov'></div>
             <div class='card-title'>ระบบบริหารจัดการคลังเวชภัณฑ์
                 Matching System </div>
             <div class='card-detail'>ได้รับความร่วมมือจากกระทรวงสาธารณสุข 
             สำนักงานวิจัยเเห่งชาติ เเละมหาวิทยาลัยมหิดล</div>
             <div class='card-footer'><a>Laravel</a></div>
-            <!-- <div class='card-button'><a>รายละเอียด</a></div> -->
+            <div class='card-button'><a>ดูรายละเอียด</a></div>
           </div>
         </div>
         </div>
