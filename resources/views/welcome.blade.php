@@ -72,7 +72,7 @@
           </div>
           <div class="card-container" onclick="window.location='works/eesh'">
             <div class='card-image yellow'><img src='https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/96525101_714847015986838_8349712840591933440_n.png?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeEIf9A8lmhB0CK88Q5xY3QEQYG7ds_nvwBBgbt2z-e_AOXrW4RfuYh0q5g8W53abnDOn6cY0bsPq7cueCS4WYHM&_nc_ohc=L4p82BXZpOkAX92-eih&_nc_ht=scontent.fbkk25-1.fna&oh=167681aae624ec7c4ae412bb0ec649ed&oe=5EE804D3' class='card-img'></div>
-            <div class='card-title'>ระบบประเมิณความเสี่ยงภัย</div>
+            <div class='card-title'>ระบบประเมินความเสี่ยงภัย</div>
             <div class='card-detail'>ใช้ภายในองค์กร Energy Environment 
             Safety and Health (EESH) ภายในมจธ.</div>
             <div class='card-footer'><a>Laravel</a></div>
