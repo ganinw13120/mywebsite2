@@ -16,7 +16,7 @@
         <div class='content'>
           <div class='content-container'>
               <div class='content-title'>
-              <a href='/' class='back-home'>หน้าแรก</a> > ผลงาน : ระบบประเมิณความเสี่ยงภัย
+              <a href='/' class='back-home'>หน้าแรก</a> > ผลงาน : ระบบประเมินความเสี่ยงภัย
               </div>
               <div class='content-subtitle'>
                 Tag : <a>Laravel</a>
@@ -37,7 +37,7 @@
 
 
               <div class='content-detail'>
-                ระบบประเมิณความเสี่ยงภัย ใช้ภายในองค์กร Energy Environment Safety and
+                ระบบประเมินความเสี่ยงภัย ใช้ภายในองค์กร Energy Environment Safety and
 Health (EESH) ภายในมหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี ใช้ในการจัดการ
 เเละเพื่อให้เจ้าหน้าที่รายงานความเสี่ยงภัยที่เกิดขึ้น ภายในโรงประลองหรือห้องปฏิบัตรการ
               </div>
