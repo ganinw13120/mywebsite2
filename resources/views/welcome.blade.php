@@ -72,7 +72,7 @@
           </div>
           <div class="card-container" onclick="window.location='works/eesh'">
             <div class='card-image yellow'><img src='eesh.png' class='card-img'></div>
-            <div class='card-title'>ระบบประเมิณความเสี่ยงภัย</div>
+            <div class='card-title'>ระบบประเมินความเสี่ยงภัย</div>
             <div class='card-detail'>ใช้ภายในองค์กร Energy Environment 
             Safety and Health (EESH) ภายในมจธ.</div>
             <div class='card-footer'><a>Laravel</a></div>
