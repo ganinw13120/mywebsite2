@@ -26,9 +26,9 @@
 
               <div class="slide-container">
                 <div id="slides">
-                <img src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/100648164_245550730195712_8612148180034781184_n.png?_nc_cat=108&_nc_sid=b96e70&_nc_eui2=AeGzS1n3K79m0VqzX0U6qM6FW0JaO6d86ulbQlo7p3zq6SBbAIjsjwGjlMm-qSzxSWizLa15AVav13HWzdEWlS9h&_nc_ohc=IZ9Zv_B4SdEAX-tWCBd&_nc_ht=scontent.fbkk25-1.fna&oh=83b2a7f6f71b176d009653d4449596e1&oe=5EF686B9" >
+                <img src="/kmuttelection1.png" >
                   
-                  <img src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/101062727_186285205970183_3404665591091429376_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_eui2=AeEH3lJ1V7ltpRqVv7HeEjw6u5Bzk_qz4_W7kHOT-rPj9UUepx7__paD3mOfobxZT0qOQ2sm6RdqjXHQ6se31JSh&_nc_ohc=swhH9b4kshwAX8YK6jD&_nc_ht=scontent.fbkk25-1.fna&oh=c2686d8768df1de8c4417911536875bf&oe=5EF5F709">
+                  <img src="/kmuttelection2.png">
                   
                   <a href="#" class="slidesjs-previous slidesjs-navigation">ก่อนหน้า<i class="icon-chevron-left icon-large"></i></a>
                   <a href="#" class="slidesjs-next slidesjs-navigation">ถัดไป<i class="icon-chevron-right icon-large"></i></a>

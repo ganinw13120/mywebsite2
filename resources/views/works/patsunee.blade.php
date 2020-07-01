@@ -26,9 +26,9 @@
 
               <div class="slide-container">
                 <div id="slides">
-                <img src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/100855686_2367774363526460_2985735662155595776_n.jpg?_nc_cat=107&_nc_sid=b96e70&_nc_eui2=AeHL_OGeUAl1sBWsvHYEodN5myXonEfTetmbJeicR9N62dbWBLrNCgRS_-3YXJ2LXWyMMH_-uPrxncGt6GWwjug0&_nc_ohc=7kNNs40SX2UAX-uVZ9S&_nc_ht=scontent.fbkk25-1.fna&oh=770ef8266857c938b389ece83122b062&oe=5EF7F076">
+                <img src="/patsunee1.jpg">
                   
-                  <img src="https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.15752-9/100692654_174659973983335_4208641949453778944_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_eui2=AeGue3ZkRKoY81aak12zEXizMbZHe03hczAxtkd7TeFzMBSuXVzip9VDpkTz3ED_eddt95luKHDGzGGsJy4N3-p0&_nc_ohc=uZxnAvdnf-4AX9QUHCU&_nc_ht=scontent.fbkk25-1.fna&oh=58f2c56ec59d72d6af7bb6b00a5b5f70&oe=5EF57B0D" >
+                  <img src="/patsunee2.jpg" >
                   
                   <a href="#" class="slidesjs-previous slidesjs-navigation">ก่อนหน้า<i class="icon-chevron-left icon-large"></i></a>
                   <a href="#" class="slidesjs-next slidesjs-navigation">ถัดไป<i class="icon-chevron-right icon-large"></i></a>
