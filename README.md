@@ -1,4 +1,4 @@
-<p align="center">My personal website</p>
+# My personal Website
 Take a closer look at [mywebsite] (gan-mkk.com).
 <a>www.gan-mkk.com</a>
 
